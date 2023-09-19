@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @codewarr1or
-- 👀 I’m interested in making discord bots 
-- 🌱 I’m currently learning Python and Js 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=%23F7C51D&size=18&vCenter=true&height=16&lines=Hi+there%2C+I'm+CodeWarrior.;Hi+there%2C+I'm+Leon+Sand%C3%B8y.;Hi+there%2C+you+can+call+me+Lemon.;Hi+there%2C+I'm+a+content+creator.;Hi+there%2C+I'm+a+software+engineer.;Hi+there%2C+I'm+a+musician.)
 
-<!---
-codewarr1or/codewarr1or is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I make stuff. Sometimes people like the stuff I make. 🍋
+
+You might know me as one of the founders of [Programming Heavan]( https://discord.gg/KCpEKxJ63X 
+),
