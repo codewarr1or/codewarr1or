@@ -2,5 +2,5 @@
 
 I make stuff. Sometimes people like the stuff I make. 🍋
 
-You might know me as one of the founders of [Programming Heavan]( https://discord.gg/KCpEKxJ63X 
+You might know me as one of the founders of [Programming Heavan]( https://discord.gg/GNn83KCymB 
 ),
